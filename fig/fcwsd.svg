@@ -328,14 +328,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="340.61481"
-     inkscape:cy="669.13995"
+     inkscape:cx="437.78277"
+     inkscape:cy="554.85424"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="false"
-     inkscape:window-width="1246"
+     inkscape:window-width="1342"
      inkscape:window-height="1064"
      inkscape:window-x="0"
      inkscape:window-y="14"
@@ -367,7 +367,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1284,78 +1284,6 @@
            x="70.261177"
            sodipodi:role="line" /></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="168.3858"
-       y="86.60585"
-       id="text4613"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4615"
-         x="168.3858"
-         y="86.60585"
-         style="font-size:30px;fill:#656565;fill-opacity:1">200次元</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#656565;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
-       d="m 290,77.362201 c 75,-5 115,-25 115,-25"
-       id="path4617"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="173.93037"
-       y="163.06514"
-       id="text4613-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4615-5"
-         x="173.93037"
-         y="163.06514"
-         style="font-size:30px;fill:#656565;fill-opacity:1">200次元</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#656565;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-1)"
-       d="m 295,152.3622 c 40,10 65,45 65,45"
-       id="path4617-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="821.07794"
-       y="589.56006"
-       id="text4613-1-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4615-5-7"
-         x="821.07794"
-         y="589.56006"
-         style="font-size:30px;fill:#656565;fill-opacity:1">200次元</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#656565;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-1-2)"
-       d="M 875,562.3622 C 861.23167,549.94886 848.57143,526.29077 848.57143,526.29077"
-       id="path4617-8-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="152.0899"
-       y="661.87152"
-       id="text4613-1-1-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4615-5-7-1"
-         x="152.0899"
-         y="661.87152"
-         style="font-size:30px;fill:#656565;fill-opacity:1">200次元</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#656565;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-1-2-9)"
-       d="m 274,653.3622 c 55,0 90,25 90,25"
-       id="path4617-8-4-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <g
        id="g5783"
        transform="translate(-30,-8)">
@@ -3311,55 +3239,7 @@
            id="rect9553-6-2-2-3-7-9-1-6-22-2-0"
            style="fill:#ffffff;fill-opacity:1;stroke:#c8c8c8;stroke-width:1.50000072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
-      <text
-         sodipodi:linespacing="125%"
-         id="text4613-1-1-7-7"
-         y="1004.9629"
-         x="614.49487"
-         style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-size:30px;fill:#656565;fill-opacity:1"
-           y="1004.9629"
-           x="614.49487"
-           id="tspan4615-5-7-1-9"
-           sodipodi:role="line">30×30次元</tspan></text>
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path4617-8-4-1-0"
-         d="m 700.5112,1012.3622 c 60,15 95,5 95,5"
-         style="fill:none;fill-rule:evenodd;stroke:#656565;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-1-2-9-2)" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="171.81438"
-       y="4.6058507"
-       id="text4613-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4615-4"
-         x="171.81438"
-         y="4.6058507"
-         style="font-size:30px;fill:#656565;fill-opacity:1">42次元</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#656565;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-9)"
-       d="M 274.99999,-6.6377984 C 349.99999,-11.637798 390,-31.637799 390,-31.637799"
-       id="path4617-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="42.677299"
-       y="36.445923"
-       id="text4613-3-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4615-4-7"
-         x="42.677299"
-         y="36.445923"
-         style="font-size:30px;fill:#656565;fill-opacity:1">(7カテゴリ×6クラス)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3371,42 +3251,6 @@
          id="tspan8339"
          x="906.02209"
          y="634.534" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="815.79468"
-       y="654.70551"
-       id="text4613-1-1-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4615-5-7-7"
-         x="815.79468"
-         y="654.70551"
-         style="font-size:30px;fill:#656565;fill-opacity:1">最長4文字</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="794.95355"
-       y="431.58038"
-       id="text4613-1-1-8-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4615-5-7-7-4"
-         x="794.95355"
-         y="431.58038"
-         style="font-size:30px;fill:#656565;fill-opacity:1">最長64単語</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="800.35498"
-       y="215.57649"
-       id="text4613-1-1-8-7-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4615-5-7-7-4-6"
-         x="800.35498"
-         y="215.57649"
-         style="font-size:30px;fill:#656565;fill-opacity:1">最長16文</tspan></text>
     <g
        id="g4741"
        transform="translate(0,4)">
